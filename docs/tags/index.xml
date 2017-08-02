@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CoCitizen tech blog</title>
+    <link>http://tech.cocitizen.com/tags/</link>
+    <description>Recent content in Tags on CoCitizen tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 16:47:16 -0400</lastBuildDate>
+    
+	<atom:link href="http://tech.cocitizen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aegir</title>
+      <link>http://tech.cocitizen.com/tags/aegir/</link>
+      <pubDate>Tue, 01 Aug 2017 16:47:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/aegir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible</title>
+      <link>http://tech.cocitizen.com/tags/ansible/</link>
+      <pubDate>Tue, 01 Aug 2017 16:47:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cocitizen</title>
+      <link>http://tech.cocitizen.com/tags/cocitizen/</link>
+      <pubDate>Wed, 02 Aug 2017 01:49:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/cocitizen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democracy</title>
+      <link>http://tech.cocitizen.com/tags/democracy/</link>
+      <pubDate>Wed, 02 Aug 2017 01:49:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/democracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demtools</title>
+      <link>http://tech.cocitizen.com/tags/demtools/</link>
+      <pubDate>Tue, 01 Aug 2017 16:47:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/demtools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drupal</title>
+      <link>http://tech.cocitizen.com/tags/drupal/</link>
+      <pubDate>Tue, 01 Aug 2017 16:47:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacker Culture</title>
+      <link>http://tech.cocitizen.com/tags/hacker-culture/</link>
+      <pubDate>Wed, 02 Aug 2017 01:49:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/hacker-culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://tech.cocitizen.com/tags/hugo/</link>
+      <pubDate>Wed, 02 Aug 2017 01:49:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet Privacy</title>
+      <link>http://tech.cocitizen.com/tags/internet-privacy/</link>
+      <pubDate>Wed, 02 Aug 2017 01:49:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/internet-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ndi</title>
+      <link>http://tech.cocitizen.com/tags/ndi/</link>
+      <pubDate>Tue, 01 Aug 2017 16:47:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/ndi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>http://tech.cocitizen.com/tags/twitter/</link>
+      <pubDate>Wed, 02 Aug 2017 01:49:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet Privacy on CoCitizen tech blog</title>
+    <link>http://tech.cocitizen.com/tags/internet-privacy/</link>
+    <description>Recent content in Internet Privacy on CoCitizen tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Aug 2017 01:49:16 -0400</lastBuildDate>
+    
+	<atom:link href="http://tech.cocitizen.com/tags/internet-privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building a better &#39;share&#39; button</title>
+      <link>http://tech.cocitizen.com/posts/building-tweet-button/</link>
+      <pubDate>Wed, 02 Aug 2017 01:49:16 -0400</pubDate>
+      
+      <guid>http://tech.cocitizen.com/posts/building-tweet-button/</guid>
+      <description>&amp;ldquo;Tweet&amp;rdquo; and other social media sharing buttons are pretty much ubiquitous these days. That&amp;rsquo;s assuming you aren&amp;rsquo;t using something like the Ghostery browser plugin. If you are, then those buttons are likely being blocked because they use techniques like tracking cookies to record your browsing behaviour. Bear in mind, this isn&amp;rsquo;t standard web analytics, looking at how you interact with an organization&amp;rsquo;s own website. Instead, these &amp;ldquo;share&amp;rdquo; buttons allow social networking companies to track you across any site that has one of these buttons.</description>
+    </item>
+    
+  </channel>
+</rss>

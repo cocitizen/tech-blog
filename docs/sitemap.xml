@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://tech.cocitizen.com/posts/building-tweet-button/</loc>
+    <lastmod>2017-08-02T01:49:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/posts/hello-world/</loc>
+    <lastmod>2017-08-01T16:47:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/aegir/</loc>
+    <lastmod>2017-08-01T16:47:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/ansible/</loc>
+    <lastmod>2017-08-01T16:47:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/</loc>
+    <lastmod>2017-08-02T01:49:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/cocitizen/</loc>
+    <lastmod>2017-08-02T01:49:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/democracy/</loc>
+    <lastmod>2017-08-02T01:49:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/demtools/</loc>
+    <lastmod>2017-08-01T16:47:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/drupal/</loc>
+    <lastmod>2017-08-01T16:47:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/hacker-culture/</loc>
+    <lastmod>2017-08-02T01:49:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/hugo/</loc>
+    <lastmod>2017-08-02T01:49:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/internet-privacy/</loc>
+    <lastmod>2017-08-02T01:49:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/ndi/</loc>
+    <lastmod>2017-08-01T16:47:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/posts/</loc>
+    <lastmod>2017-08-02T01:49:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/</loc>
+    <lastmod>2017-08-01T16:47:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tech.cocitizen.com/tags/twitter/</loc>
+    <lastmod>2017-08-02T01:49:16-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

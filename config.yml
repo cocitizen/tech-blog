@@ -1,0 +1,9 @@
+title: CoCitizen tech blog
+baseURL: http://tech.cocitizen.com/
+languageCode: en-us
+theme: code-editor
+publishDir: docs
+
+params:
+  author: Christopher Gervais
+  locale: en-US
